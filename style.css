@@ -5,7 +5,7 @@
 }
 
 body {
-  background: #242333;
+  background: #37d65f;
   display: flex;
   flex-direction: column;
   color: #fff;
@@ -47,7 +47,7 @@ body {
 }
 
 .seat.selected {
-  background: #6feaf6;
+  background: #0f8dc7;
 }
 
 .seat.occupied {
@@ -76,7 +76,7 @@ body {
   background: rgba(0, 0, 0, 0.1);
   padding: 5px 10px;
   border-radius: 5px;
-  color: #777;
+  color: rgb(92, 92, 92);
   list-style-type: none;
   display: flex;
   justify-content: space-between;
@@ -111,5 +111,5 @@ p.text {
 }
 
 p.text span {
-  color: #6feaf6;
+  color: #043f5a;
 }
